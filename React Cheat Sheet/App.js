@@ -30,6 +30,8 @@ class App extends React.Component {
   }
 
   /****************************  METHODS FOR THE COMPONENT  ****************************/
+  
+  /* methods can also be written as: "const methodName = () => {}"  which I prefer OR as: "methodNAme() {}" neither is wrong */
 
   notInvokedImmediately() {
     console.log(
