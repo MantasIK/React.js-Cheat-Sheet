@@ -13,5 +13,5 @@ The **FunctionalComponent** is a boilerplate example of a simple, stateless comp
 I encourage playing around with the repo and to use it as reference when starting out with React.
 
 
-**Many things have changed in React since I first created this reference sheet. I hope to sit down and update it when I have time.
-Nonetheless, it still has some good notes to look up.* 
+***Many things have changed in React since I first created this reference sheet. I hope to sit down and update it when I have time.
+Nonetheless, it still has some good notes to look up.*** 
